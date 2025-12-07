@@ -1,0 +1,2 @@
+PenentuNilaiMahasiswa
+PenentuNilaiMahasiswa$1

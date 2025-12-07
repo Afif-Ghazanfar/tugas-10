@@ -1,0 +1,2 @@
+Kalkulator
+Kalkulator$1
